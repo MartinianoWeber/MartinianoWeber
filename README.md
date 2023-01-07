@@ -2,10 +2,8 @@
 <h3 align="center">Soy un apasionado por la tecnología y por el desarrollo web.</h3>
 
 - 🌱 Ahora mismo estoy aprendiendo.. **Angular Js**
-
-- ![](https://komarev.com/ghpvc/?username=MartinianoWebe&color=ff69b4)
-
 - 👨‍💻 Todos mis proyectos: [https://portafolio-martinianoweber.netlify.app](https://portafolio-martinianoweber.netlify.app)
+- ![](https://komarev.com/ghpvc/?username=MartinianoWebe&color=ff69b4)
 
 
 <h3 align="left">Conecta conmigo:</h3>
