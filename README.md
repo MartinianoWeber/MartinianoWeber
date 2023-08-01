@@ -3,8 +3,6 @@
 
 - 🌱 Ahora mismo estoy aprendiendo.. **.NET**
 
-- Todos mis proyectos: [https://portafolio-martinianoweber.netlify.app](https://portafolio-martinianoweber.netlify.app)
-
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/martiniano-weber/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/martiniano-weber/" height="30" width="40" /></a>
