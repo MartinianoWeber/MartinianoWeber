@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋 me llamo Martiniano Weber</h1>
 <h3 align="center">Soy un apasionado por la tecnología y por el desarrollo web.</h3>
 
-- 🌱 Ahora mismo estoy aprendiendo.. **React Native y Nest JS**
+- 🌱 Ahora mismo estoy aprendiendo.. **.NET**
 
 - Todos mis proyectos: [https://portafolio-martinianoweber.netlify.app](https://portafolio-martinianoweber.netlify.app)
 
